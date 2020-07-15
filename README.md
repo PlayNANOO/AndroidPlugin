@@ -16,6 +16,8 @@ Features
 * Real-time ranking
 * Invite
 * Players
+* Friends
+* Cache Storage
 * Applink & Universal link
 
 PlayNANOO Link : [PlayNANOO Service Introduce](https://www.playnanoo.com)
